@@ -1103,6 +1103,14 @@
     "format": "png"
   }]
 }, {
+  "name": "idn",
+  "icons": [{
+    "url": "ipfs://bafkreiarbxyddbnz5x36rj4l2ousrwnsjminqjjcswsttzxqckqwz6b7ba",
+    "width": 1024,
+    "height": 1024,
+    "format": "png"
+  }]
+}, {
   "name": "sonic",
   "icons": [{
     "url": "ipfs://QmbFqQ87T3HwjF6KejNYYYMcUtc7t64FDbfkpgWchFgMpC",
@@ -5309,6 +5317,14 @@
     "format": "png"
   }]
 }, {
+  "name": "esports",
+  "icons": [{
+    "url": "ipfs://QmaNywdCUrHoe3grk3hhHXrsTgc3tHVpt2ZaoRYoNkgEvc",
+    "width": 1224,
+    "height": 1280,
+    "format": "jpg"
+  }]
+}, {
   "name": "venidium",
   "icons": [{
     "url": "ipfs://bafkreiaplwlym5g27jm4mjhotfqq6al2cxp3fnkmzdusqjg7wnipq5wn2e",
@@ -6401,6 +6417,14 @@
     "width": 500,
     "height": 500,
     "format": "png"
+  }]
+}, {
+  "name": "drawchain",
+  "icons": [{
+    "url": "ipfs://bafkreihhhjsjsmsl3tpoocu244vul47dxtfvumokncmeg6fu7rgdpze7ia",
+    "width": 327,
+    "height": 313,
+    "format": "svg"
   }]
 }, {
   "name": "wanchain",

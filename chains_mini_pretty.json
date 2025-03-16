@@ -2703,6 +2703,19 @@
   "faucets": [],
   "infoURL": "https://shinarium.org"
 }, {
+  "name": "IDN Mainnet",
+  "chainId": 215,
+  "shortName": "IDN",
+  "networkId": 215,
+  "nativeCurrency": {
+    "name": "IDN",
+    "symbol": "IDN",
+    "decimals": 18
+  },
+  "rpc": ["https://dataseed1.idn-rpc.com", "https://dataseed2.idn-rpc.com", "https://dataseed3.idn-rpc.com"],
+  "faucets": [],
+  "infoURL": "https://www.idn.world"
+}, {
   "name": "Happychain Testnet",
   "chainId": 216,
   "shortName": "happytestnet",
@@ -14247,6 +14260,19 @@
   "faucets": [],
   "infoURL": "https://orenium.org"
 }, {
+  "name": "Draw Coin",
+  "chainId": 7788,
+  "shortName": "drw",
+  "networkId": 7788,
+  "nativeCurrency": {
+    "name": "DRW",
+    "symbol": "DRW",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.drawchain.org"],
+  "faucets": [],
+  "infoURL": "https://drawchain.io/"
+}, {
   "name": "OpenEX LONG Testnet",
   "chainId": 7798,
   "shortName": "oex",
@@ -17678,6 +17704,19 @@
   "rpc": ["https://api.kon-wallet.com"],
   "faucets": [],
   "infoURL": "https://konetmain.com"
+}, {
+  "name": "Esports Chain",
+  "chainId": 17735,
+  "shortName": "Esports",
+  "networkId": 17735,
+  "nativeCurrency": {
+    "name": "Esport Token",
+    "symbol": "ESPT",
+    "decimals": 18
+  },
+  "rpc": ["https://esportsblock.org/rpc/"],
+  "faucets": [],
+  "infoURL": "https://esportsblock.org"
 }, {
   "name": "EOS EVM Network",
   "chainId": 17777,
@@ -25349,6 +25388,19 @@
   "faucets": ["https:/testchainv1.hetuscan.com"],
   "infoURL": "https://hetu.org"
 }, {
+  "name": "Hoodi testnet",
+  "chainId": 560048,
+  "shortName": "hoe",
+  "networkId": 560048,
+  "nativeCurrency": {
+    "name": "Hoodi Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.hoodi.ethpandaops.io"],
+  "faucets": ["https://faucet.hoodi.ethpandaops.io", "https://hoodi-faucet.pk910.de/"],
+  "infoURL": "https://hoodi.ethpandaops.io"
+}, {
   "name": "DJT Testnet",
   "chainId": 621847,
   "shortName": "DJT",
@@ -26008,7 +26060,7 @@
     "symbol": "DODAO",
     "decimals": 18
   },
-  "rpc": ["https://fraa-dancebox-3041-rpc.a.dancebox.tanssi.network", "wss://fraa-dancebox-3041-rpc.a.dancebox.tanssi.network"],
+  "rpc": ["https://fraa-flashbox-4643-rpc.a.stagenet.tanssi.network", "wss://fraa-flashbox-4643-rpc.a.stagenet.tanssi.network"],
   "faucets": [],
   "infoURL": "https://dodao.dev/"
 }, {

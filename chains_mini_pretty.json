@@ -7799,6 +7799,19 @@
   "faucets": [],
   "infoURL": "https://polygon.technology/solutions/polygon-zkevm/"
 }, {
+  "name": "Perennial",
+  "chainId": 1424,
+  "shortName": "perennial",
+  "networkId": 1424,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.perennial.foundation"],
+  "faucets": [],
+  "infoURL": "https://perennial.finance"
+}, {
   "name": "Rikeza Network Mainnet",
   "chainId": 1433,
   "shortName": "RIK",
@@ -13675,7 +13688,7 @@
   "faucets": [],
   "infoURL": "https://nibiru.fi"
 }, {
-  "name": "XYL TestNet",
+  "name": "Xylume TestNet",
   "chainId": 6934,
   "shortName": "xyl",
   "networkId": 6934,
@@ -13686,7 +13699,7 @@
   },
   "rpc": ["https://xyl-testnet.glitch.me/rpc/"],
   "faucets": ["https://debxylen.github.io/XYL_TestNet/faucet.html"],
-  "infoURL": "https://debxylen.github.io/XYL_TestNet"
+  "infoURL": "https://debxylen.github.io/Xylume_TestNet"
 }, {
   "name": "Laika Mainnet",
   "chainId": 6942,
@@ -19122,6 +19135,19 @@
   "faucets": [],
   "infoURL": "https://web3games.com/"
 }, {
+  "name": "BasedAI Mainnet",
+  "chainId": 32323,
+  "shortName": "basedai",
+  "networkId": 32323,
+  "nativeCurrency": {
+    "name": "BasedAI",
+    "symbol": "BASED",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.basedaibridge.com/rpc/"],
+  "faucets": [],
+  "infoURL": "https://getbased.ai"
+}, {
   "name": "Santiment Intelligence Network",
   "chainId": 32382,
   "shortName": "SANR",
@@ -20824,6 +20850,19 @@
   "rpc": ["https://rpc.gobob.xyz", "wss://rpc.gobob.xyz", "https://bob-mainnet.public.blastapi.io", "wss://bob-mainnet.public.blastapi.io"],
   "faucets": [],
   "infoURL": "https://gobob.xyz"
+}, {
+  "name": "Perennial Sepolia",
+  "chainId": 60850,
+  "shortName": "perennial-sepolia",
+  "networkId": 60850,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-sepolia.perennial.foundation"],
+  "faucets": [],
+  "infoURL": "https://perennial.finance"
 }, {
   "name": "Orange Chain Mainnet",
   "chainId": 61022,
@@ -29587,13 +29626,13 @@
   "faucets": [],
   "infoURL": "https://ipdc.io"
 }, {
-  "name": "Smart Pay Mobile Money",
+  "name": "SmartPay Mobile Money",
   "chainId": 666301179999,
   "shortName": "SmartPay",
   "networkId": 666301179999,
   "nativeCurrency": {
     "name": "SmartPay Mobile Money",
-    "symbol": "SMRTP",
+    "symbol": "SMM",
     "decimals": 18
   },
   "rpc": ["https://network.uat.smartmoneyewallet.com/"],

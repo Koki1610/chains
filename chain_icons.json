@@ -399,6 +399,14 @@
     "format": "png"
   }]
 }, {
+  "name": "perennial",
+  "icons": [{
+    "url": "ipfs://bafkreidkqdec42orfj4yiufiqvo3n33yxiw75jybg2lewv36raq7qpijua",
+    "width": 128,
+    "height": 128,
+    "format": "svg"
+  }]
+}, {
   "name": "shiden",
   "icons": [{
     "url": "ipfs://QmQySjAoWHgk3ou1yvBi2TrTcgH6KhfGiU7GcrLzrAeRkE",
@@ -3341,6 +3349,14 @@
     "format": "png"
   }]
 }, {
+  "name": "xylume-testnet",
+  "icons": [{
+    "url": "ipfs://QmRk9t6g5otTX6XcQjvFwsfzn2KjZwbstptH9C7uG2kVdD",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "koppa",
   "icons": [{
     "url": "ipfs://QmbEzU7QQ4uJR2XTmkGAW9GNEsTMt6o8oYshPVeWVbSGaC",
@@ -5315,6 +5331,14 @@
     "width": 512,
     "height": 512,
     "format": "png"
+  }]
+}, {
+  "name": "basedai",
+  "icons": [{
+    "url": "ipfs://bafkreidkgcrgumpvke3rsk3txvy52ovosmyfum3b6vnyv4k4rzzov72zae",
+    "width": 240,
+    "height": 240,
+    "format": "svg"
   }]
 }, {
   "name": "esports",
@@ -8152,14 +8176,6 @@
     "url": "ipfs://QmagWrtyApex28H2QeXcs3jJ2F7p2K7eESz3cDbHdQ3pjG",
     "width": 1050,
     "height": 1050,
-    "format": "png"
-  }]
-}, {
-  "name": "xyl-test",
-  "icons": [{
-    "url": "ipfs://QmYLd4jRsRiSnGERvzBGmMuXGo6q5AYhmr8UFtmXzGhRc5",
-    "width": 505,
-    "height": 505,
     "format": "png"
   }]
 }, {

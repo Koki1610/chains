@@ -1806,18 +1806,18 @@
   "faucets": [],
   "infoURL": "https://wikiwoop.com"
 }, {
-  "name": "Eternal Mainnet",
+  "name": "Eteria Mainnet",
   "chainId": 140,
-  "shortName": "ETE",
+  "shortName": "ERA",
   "networkId": 140,
   "nativeCurrency": {
-    "name": "Eternal",
-    "symbol": "ETE",
+    "name": "Eteria",
+    "symbol": "ERA",
     "decimals": 18
   },
   "rpc": ["https://mainnet.eternalcoin.io/v1", "ws://mainnet.eternalcoin.io/v1/ws"],
   "faucets": [],
-  "infoURL": "https://eternalcoin.io"
+  "infoURL": "https://eteria.io"
 }, {
   "name": "Openpiece Testnet",
   "chainId": 141,
@@ -12153,6 +12153,19 @@
   "rpc": ["https://testnet-erigon-rpc.merlinchain.io"],
   "faucets": [],
   "infoURL": "https://merlinchain.io"
+}, {
+  "name": "Layer Edge Mainnet",
+  "chainId": 4207,
+  "shortName": "LayerEdge",
+  "networkId": 4207,
+  "nativeCurrency": {
+    "name": "Layer Edge",
+    "symbol": "EDGEN",
+    "decimals": 18
+  },
+  "rpc": ["https://layeredge-mainnet-evm.itrocket.net", "https://layeredge.rpc.subquery.network/public", "https://rpc.layeredge.io", "https://rpc2.layeredge.io", "https://rpc.layeredge.foundation", "https://rpc2.layeredge.foundation"],
+  "faucets": [],
+  "infoURL": "https://layeredge.io"
 }, {
   "name": "Nexi Mainnet",
   "chainId": 4242,
@@ -23070,9 +23083,9 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://test-rpc.plumenetwork.xyz", "wss://test-rpc.plumenetwork.xyz"],
+  "rpc": [],
   "faucets": [],
-  "infoURL": "https://plumenetwork.xyz/"
+  "infoURL": "https://plume.org"
 }, {
   "name": "Plume (Legacy)",
   "chainId": 98865,
@@ -23083,9 +23096,9 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://rpc.plumenetwork.xyz", "wss://rpc.plumenetwork.xyz"],
+  "rpc": [],
   "faucets": [],
-  "infoURL": "https://plumenetwork.xyz/"
+  "infoURL": "https://plume.org"
 }, {
   "name": "Plume Mainnet",
   "chainId": 98866,
@@ -23096,9 +23109,9 @@
     "symbol": "PLUME",
     "decimals": 18
   },
-  "rpc": ["https://phoenix-rpc.plumenetwork.xyz", "wss://phoenix-rpc.plumenetwork.xyz"],
+  "rpc": ["https://rpc.plume.org", "wss://rpc.plume.org"],
   "faucets": [],
-  "infoURL": "https://plumenetwork.xyz/"
+  "infoURL": "https://plume.org"
 }, {
   "name": "Plume Testnet",
   "chainId": 98867,
@@ -23109,9 +23122,9 @@
     "symbol": "PLUME",
     "decimals": 18
   },
-  "rpc": ["https://testnet-rpc.plumenetwork.xyz", "wss://testnet-rpc.plumenetwork.xyz"],
-  "faucets": ["https://faucet.plumenetwork.xyz"],
-  "infoURL": "https://plumenetwork.xyz/"
+  "rpc": ["https://testnet-rpc.plume.org", "wss://testnet-rpc.plume.org"],
+  "faucets": ["https://faucet.plume.org"],
+  "infoURL": "https://plume.org"
 }, {
   "name": "Ebi Chain",
   "chainId": 98881,
@@ -25894,6 +25907,19 @@
   "rpc": ["https://rpc.testchainv1.hetuscan.com"],
   "faucets": ["https:/testchainv1.hetuscan.com"],
   "infoURL": "https://hetu.org"
+}, {
+  "name": "Rogue Chain",
+  "chainId": 560013,
+  "shortName": "rogue",
+  "networkId": 560013,
+  "nativeCurrency": {
+    "name": "Rogue",
+    "symbol": "ROGUE",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.roguechain.io/rpc", "wss://rpc.roguechain.io/ws"],
+  "faucets": [],
+  "infoURL": "https://roguechain.io"
 }, {
   "name": "Ethereum Hoodi",
   "chainId": 560048,
@@ -28922,7 +28948,7 @@
   },
   "rpc": [],
   "faucets": [],
-  "infoURL": "https://plumenetwork.xyz/"
+  "infoURL": "https://plume.org"
 }, {
   "name": "Blast Sepolia Testnet",
   "chainId": 168587773,
